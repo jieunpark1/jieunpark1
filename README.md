@@ -1,27 +1,27 @@
 # Hi, I’m Jieun Park 😍👋
 
-## About Me  
-- I am a passionate AI engineer and researcher
-- Master's degree in Arts from HUFS, researched on Speech Recognition using AI, though.🙃
+## 👩🏻About Me  
+- Researched on Speech Recognition using AI
+- Master's degree in Arts from Hankuk University of Foreign Studies (HUFS), though.🙃
 
-## Thesis 
+## 📝Thesis 
   **Hankuk University of Foreign Studies, 2024.8**
   ### **Phoneme Recognition of Korean Children’s English Speech using Self-Supervised Learning based Domain Adaptation** 
   - Developed advanced AI models for phoneme recognition in non-native children's speech, contributing to improved Computer-Assisted Pronunciation Training (CAPT) systems.  
-  - Conducted extensive analysis and modeling of ECG data for early detection of cardiac abnormalities.
+  - 13% of increase in PER (Phoneme Error Rate) compared to the basline
     
-## Now Interests
+## 🫀Now Interests
 - Deeply interested in medical/health-care AI
 - CV and Time-Series data, e.g., ECG
 
-## Technical Skills  
+## 🛠️Technical Skills  
 - Programming Languages: Python, R  
 - AI Frameworks: PyTorch, tf.keras 
 - Data Analysis & Visualization: Pandas, NumPy, Matplotlib
 - Tools & Platforms: Git
 
 
-## Contact  
+## ℹ️Contact  
 - Email: ppae0216@naver.com
 - GitHub: https://github.com/jieunpark1
 
