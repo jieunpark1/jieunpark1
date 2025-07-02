@@ -6,7 +6,7 @@
 
 ## Thesis 
   **Hankuk University of Foreign Studies, 2024.8**
-  Thesis: **Phoneme Recognition of Korean Children’s English Speech using Self-Supervised Learning based Domain Adaptation** 
+  ### **Phoneme Recognition of Korean Children’s English Speech using Self-Supervised Learning based Domain Adaptation** 
   - Developed advanced AI models for phoneme recognition in non-native children's speech, contributing to improved Computer-Assisted Pronunciation Training (CAPT) systems.  
   - Conducted extensive analysis and modeling of ECG data for early detection of cardiac abnormalities.
     
