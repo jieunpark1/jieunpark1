@@ -1,8 +1,8 @@
 # Hi, I’m Jieun Park 😍👋
 
 ## About Me  
-- I am a passionate AI engineer and researcher with a Master's degree in Arts from HUFS in Seoul.
-- did research on Speech Recognition using AI, though.
+- I am a passionate AI engineer and researcher
+- Master's degree in Arts from HUFS, researched on Speech Recognition using AI, though.🙃
 
 ## Thesis 
   **Hankuk University of Foreign Studies, 2024.8**
