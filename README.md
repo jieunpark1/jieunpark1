@@ -1,8 +1,8 @@
-# Hi, I’m Jieun Park 😍👋
+# Hi, I’m Jieun Park 👋
 
 ## 👩🏻About Me  
 - Researched on Speech Recognition using AI
-- Master's degree in Arts from Hankuk University of Foreign Studies (HUFS), though.🙃
+- Master's degree in Arts from Hankuk University of Foreign Studies (HUFS), though.
 
 ## 📝Thesis 
   **Hankuk University of Foreign Studies, 2024.8**
@@ -12,7 +12,7 @@
     
 ## 🫀Now Interests
 - Deeply interested in medical/health-care AI
-- CV and Time-Series data, e.g., ECG
+- CV and Time-Series data e.g., ECG
 
 ## 🛠️Technical Skills  
 - Programming Languages: Python, R  
@@ -24,7 +24,8 @@
 ## ℹ️Contact  
 - Email: ppae0216@naver.com
 - GitHub: https://github.com/jieunpark1
+- Velog: https://velog.io/@ppae0216/posts
 
 Thank you for visiting my profile!
-Feel free to explore and contact me! 
+Feel free to explore and contact me!😃
 
