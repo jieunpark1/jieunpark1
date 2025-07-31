@@ -10,15 +10,15 @@
   - Developed advanced AI models for phoneme recognition in non-native children's speech, contributing to improved Computer-Assisted Pronunciation Training (CAPT) systems.  
   - 13% of increase in PER (Phoneme Error Rate) compared to the basline
     
-## 🫀Now Interests
-- Deeply interested in medical/health-care AI
-- CV and Time-Series data e.g., ECG
+## 🌉Now Interests
+- Based on what I've learned in graduate school, I'm interested in AI research.
+- Deeply interested in Speech Recognition / Computer Vision (regarding health or food)
 
 ## 🛠️Technical Skills  
 - Programming Languages: Python, R  
-- AI Frameworks: PyTorch, tf.keras 
+- AI Frameworks: PyTorch, Tensorflow
 - Data Analysis & Visualization: Pandas, NumPy, Matplotlib
-- Tools & Platforms: Git
+- Tools & Platforms: Git, Slack, Notion
 
 
 ## ℹ️Contact  
