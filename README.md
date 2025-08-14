@@ -8,11 +8,11 @@
   **Hankuk University of Foreign Studies, 2024.8**
   ### **Phoneme Recognition of Korean Children’s English Speech using Self-Supervised Learning based Domain Adaptation** 
   - Developed advanced AI models for phoneme recognition in non-native children's speech, contributing to improved Computer-Assisted Pronunciation Training (CAPT) systems.  
-  - 13% of increase in PER (Phoneme Error Rate) compared to the basline
+  - 13% increase in PER (Phoneme Error Rate) compared to the baseline
     
 ## 🌉Now Interests
 - Based on what I've learned in graduate school, I'm interested in AI research.
-- Deeply interested in Speech Recognition / Computer Vision (regarding health or food)
+- Deeply interested in Speech Recognition
 
 ## 🛠️Technical Skills  
 - Programming Languages: Python, R  
